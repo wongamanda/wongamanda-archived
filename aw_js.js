@@ -18,6 +18,12 @@
 //     })
 // }
 
+/*Google Analytics*/
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-111999041-1');
+
 function add_remove(){
     var animationIn = 'animated fadeIn';
     var animationEnd = 'webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend';
