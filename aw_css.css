@@ -110,6 +110,7 @@ td img{
 
 .bottom-img{
     position:fixed;
+    cursor:pointer;
     height: 4%;
     right:20px;
     bottom: 20px; 
