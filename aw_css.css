@@ -107,3 +107,10 @@ td img{
     vertical-align:top;
     border-collapse: collapse;
 }
+
+.bottom-img{
+    position:fixed;
+    height: 4%;
+    right:20px;
+    bottom: 20px; 
+}
