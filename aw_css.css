@@ -3,7 +3,7 @@
     font-size: 630%;
     margin-top: 85px;
     margin-left: 140px;
-    color: #FF1F3E;
+    color: #FF3D00; /*#FF1F3E*/
     cursor:pointer;
     -webkit-animation-duration: 8s;
 /*    -webkit-animation-delay: 0.5s;*/
@@ -13,7 +13,7 @@
 a:not(#greeting) {
     font-family: 'Open Sans:600', sans-serif;
     text-decoration: none;
-    color: #2B61B6;
+    color: #2257AA;
 }
 
 div .articles{
@@ -114,4 +114,5 @@ td img{
     height: 4%;
     right:20px;
     bottom: 20px; 
+    opacity: 0.8;
 }
